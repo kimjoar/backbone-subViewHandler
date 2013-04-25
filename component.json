@@ -1,0 +1,10 @@
+{
+  "name": "backbone-subViewHandler",
+  "version": "0.1.0",
+  "main": "subViewHandler.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
